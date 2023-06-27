@@ -2,7 +2,6 @@ body
 {
   width: 100%;
   height: 100vh;
-  
 }
 .roupas1
   { 
@@ -12,7 +11,7 @@ body
     flex-direction: row;
     justify-content: space-around;
     justify-items: center;
-    margin-top: 300px;
+    margin-top: 60px;
   }
    
 .roupa
@@ -25,15 +24,3 @@ body
     width: 200px;
     height: 300px;
   }
-.promocoes
-{
-  width: 100%;/*Largura*/
-  height: 250px;
-  background-image: linear-gradient(to right, #ff3131a5, #ff914da0);
-  z-index: 10;
-  position: absolute;
-  top:100px; /*Distancia de cima */
-  left: 0px;  /*Distancia da esquerda*/
-  
-}
-  
